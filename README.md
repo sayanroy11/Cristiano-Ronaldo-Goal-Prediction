@@ -2,7 +2,8 @@
 A machine learning project focused on predicting the likelihood of a goal being scored  based on a variety of factors. By leveraging historical match data and advanced statistical modeling techniques, this project aims to provide insights into the dynamics of goal scoring in a football match.
 
 Methodology:
----------------------------------------Exploaratory Data Analysis-----------------------------------------------
+
+--------------------------------------Exploaratory Data Analysis----------------------------------------------
 1. We start off by looking at the descriptive statistics of the dataset to gain some insights about the type, range and distribution of the data.
 2. We perform exploratory data analysis to find correlation among the variables and frequency distribution of different variables.
 3. From above two steps we decide our matrix of features and store them in X.
